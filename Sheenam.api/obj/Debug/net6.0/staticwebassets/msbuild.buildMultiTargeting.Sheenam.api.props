@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sheenam.api.props" />
+</Project>
