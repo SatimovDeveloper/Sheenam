@@ -1,3 +1,8 @@
+// ================================
+// Copyright (c) coalition of good-Hearted Engineers
+//Free To Use  Comfort and peace
+// ================================
+
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
